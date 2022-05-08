@@ -1,0 +1,67 @@
+@media (max-width: 1133px) {
+  /* Home Css */
+  .home .home-banner-1,
+  .home .home-banner-2 {
+    background-position: 65% center;
+    min-height: 430px;
+  }
+  .home .home-banner .home-banner-text {
+    transform: translate(-82%, -50%);
+  }
+
+  /* Special Css  */
+}
+@media (max-width: 991px) {
+  /* Home Css */
+  .home .home-banner .home-banner-text {
+    transform: translate(-79%, -50%);
+  }
+
+  .home .home-banner .home-banner-text h1 {
+    font-size: 4rem;
+  }
+
+  /* Special Css  */
+
+  /* Testimonial Css  */
+}
+@media (max-width: 660px) {
+  /* Home Css */
+  .home .home-banner-1,
+  .home .home-banner-2 {
+    background-position: 50% center;
+    min-height: 350px;
+  }
+  .home .home-banner .home-banner-text {
+   text-align: center;
+   width: 100%;
+   transform: translate(-50%, -50%);
+  }
+  .home .home-banner .home-banner-text h1 {
+    font-size: 2.6rem;
+  }
+  .home .home-banner .home-banner-text h2 {
+    font-size: 1.1rem;
+  }
+  .home .home-banner .home-banner-text .btn-danger{
+      padding: 0.5rem 1.5rem;
+  }
+
+  .home .slider-icon{
+      font-size: 2rem;
+  }
+  /* Offers Css  */
+
+  /* Product Css */
+
+  /* Special Css */
+
+  /* testimonial Css */
+}
+@media (max-width:378px) {
+    .home .home-banner-1,
+    .home .home-banner-2 {
+      background-position: 50% center;
+      min-height: 250px;
+    }
+}
